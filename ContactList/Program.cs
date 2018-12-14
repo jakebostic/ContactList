@@ -10,25 +10,29 @@ namespace ContactList
             Console.WriteLine();
 
             Contact contact = new Contact();
+            String choice = "y";
+            while (choice.Equals("y"))
+            {
+                String fname = getString("Enter first name: ");
+                contact.setFirstName(fname);
 
-            String fname = getString("Enter first name: ");
-            contact.setFirstName(fname);
+                String lname = getString("Enter last name: ");
+                contact.setLastName(lname);
 
-            String lname = getString("Enter last name: ");
-            contact.setLastName(lname);
+                String email = getString("Enter email: ");
+                contact.setEmail(email);
 
-            String email = getString("Enter email: ");
-            contact.setEmail(email);
+                String phone = getString("Enter phone: ");
+                contact.setPhone(phone);
+                Console.WriteLine();
 
-            String phone = getString("Enter phone: ");
-            contact.setPhone(phone);
-            Console.WriteLine();
+                Console.Write(contact.displayContact());
+                Console.WriteLine();
 
-            Console.Write(contact.displayContact());
-            Console.WriteLine();
-
-            Console.Write("Press any key to exit...");
-            Console.ReadKey(true);
+                Console.Write("Continue? (y/n):");
+                choice = Console.ReadLine();
+                Console.WriteLine();
+            }
 
         }
 
