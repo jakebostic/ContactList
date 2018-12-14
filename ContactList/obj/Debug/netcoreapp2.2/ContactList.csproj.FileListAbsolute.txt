@@ -1,0 +1,11 @@
+C:\repos\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.deps.json
+C:\repos\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.runtimeconfig.json
+C:\repos\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.runtimeconfig.dev.json
+C:\repos\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.dll
+C:\repos\ContactList\ContactList\bin\Debug\netcoreapp2.2\ContactList.pdb
+C:\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.csprojAssemblyReference.cache
+C:\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.csproj.CoreCompileInputs.cache
+C:\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.AssemblyInfoInputs.cache
+C:\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.AssemblyInfo.cs
+C:\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.dll
+C:\repos\ContactList\ContactList\obj\Debug\netcoreapp2.2\ContactList.pdb
